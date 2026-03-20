@@ -1,2 +1,3 @@
-# next-sports-analytics-e2n1
-A sports data analytics platform for modern development workflows
+# Next Sports Analytics E2N1
+
+A sports data analytics platform for modern development workflows.
